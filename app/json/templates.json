@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Blue Theme",
+    "description": "Blue",
+    "type": "html5",
+    "price": 9.99
+  },
+  {
+    "id": 2,
+    "name": "Red Theme",
+    "description": "red",
+    "type": "html5",
+    "price": 9.99
+  },
+  {
+    "id": 3,
+    "name": "Green Theme",
+    "description": "Green",
+    "type": "html5",
+    "price": 9.99
+  },
+  {
+    "id": 4,
+    "name": "Grey Theme",
+    "description": "grey",
+    "type": "html5",
+    "price": 9.99
+  },
+  {
+    "id": 5,
+    "name": "black Theme",
+    "description": "black",
+    "type": "html5",
+    "price": 9.99
+  }
+]
